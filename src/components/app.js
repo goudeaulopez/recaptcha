@@ -5,7 +5,7 @@ class App extends React.Component{
     render(){
         return(
             <div>
-                <GoogleReCaptchaProvider>
+                <GoogleReCaptchaProvider reCaptchaKey="6Lc8sfwZAAAAANA6K56DbT7FI8xcav18UoDZamcK">
                 App component
                 </GoogleReCaptchaProvider>
             </div>
